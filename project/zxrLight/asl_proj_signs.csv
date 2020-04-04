@@ -1,0 +1,61 @@
+Sign,Start Hand Type,End Hand Type,Start Position,End Position,Movement Axis,Movement Type,Two Hand Relation
+Nice,hb,hb ,chest,chest,x,stay,one move
+Meet,vone,vone,chest,chest,y,close,one move
+learn,hbb,hbb,chest,head,z,up,one move
+Teach,hbb,hbb,chest,chest,z,stay,one move
+Sister,va,vl,cheek,chest,z,down,one move
+man,vb,vb,head,chest,z,down,single
+woman,vb,vb,cheek,chest,z,down,single
+boy,hb,hb ,head,head,r,stay,single
+girl,va,va,cheak,cheak,z,stay,single
+father,vb,vb,head,head,r,stay,single
+mother,vb,vb,chin,chin,r,stay,single
+Brother,va,vl,head,chest,z,down,single
+california,vy,hy,head,away,x,out,single
+New-york,s,hy,chest,away,x,out,one move
+Deaf,vone,vone,chin,cheek,z,out,single
+Hearing,hone,hone,chin,chin,ro,stay,single
+Live,va,va,chest,chest,z,up,both
+From,hone,s,chest,chest,x,away,one move
+Class,va,va,chest,chest,ar,stay,both
+Course,vb,vb,chest,chest,x,stay,one move
+College,hb,hb ,chest,chin,z,up,one move
+mainstream,vfive,hfive,chest,chest,z,down,both
+sign,hone,hone,chest,chest,ro,stay,both
+paper,hfive,hfive,chest,chest,r,stay,one move
+explain,hf ,hf ,chest,chest,r,stay,both
+have,vb,vb,chest,chest,ro,stay,both
+more,hbb,hbb,chest,chest,r,stay,both
+sure,vone,hone,cheak,chest,ro,down,single
+libarary,vl,vl,chest,chest,ro,stay,single
+Desk,hb,hb,chest,chest,r,stay,one move
+Chair,hone,hone,chest,chest,r,stay,one move
+help,va,va,chest,chest,y,close,both
+Show,hone,hone,chest,chest,y,away,both
+pay,vone,vone,chest,chest,y,away,one move
+give,vbb,hbb,chest,chest,y,close,single
+can,s,s,chest,chest,r,stay,both
+need,hl,hl,chest,chest,r,stay,both
+box,vb,vb,chest,chest,ro,stay,both
+hurry,vone,hone,chest,chest,ro,stay,both
+now,hy,hy,chest,chest,r ,stay,both
+red,vone,vone,cheek,cheek,r,stay,single
+yellow,hy,hy,chest,chest,r,stay,single
+blue,vb,vb,chest,chest,r,stay,single
+green,hg,hg,chest,chest,r,stay,single
+black,hone,hone,head,head,x,out,single
+white,hfive,s,chest,chest,y,away,single
+pink,vone,vone,cheek,cheek,r,stay,single
+purple,p,p,chest,chest,r,stay,single
+gray,vfive,vfive,chest,chest,r,stay,both
+dress,vfive,vfive,chest,chest,r,stay,both
+shirt,f,f,chest,chest,r,stay,single
+hair,f,f,head,head,r,stay,single
+thin,f,f,chin,chest,z,down,single
+pretty,vfive,hbb,head,chest,z,down,single
+ugly,hone,s,chin,chin,x,away,single
+friendly,vfive,vfive,chin,chin,r,away,both
+good,vb,hb,chin,chest,z,down,single
+bad,vb,hb,chin,chest,z,down,single
+fine ,vfive,vfive,chest,chest,r,stay,single
+water,w,w,chin,chin,r,stay,single
